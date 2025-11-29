@@ -339,7 +339,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sachinmasti/future-engineering-/blob/main/LICENSE) file for details.
 
 ---
 
